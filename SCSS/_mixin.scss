@@ -1,0 +1,8 @@
+// Mixin Part
+
+// Border
+@mixin border($width, $colors) {
+    border: $width solid $colors;
+}
+
+// 

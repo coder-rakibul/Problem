@@ -1,0 +1,29 @@
+@import "vars.scss";
+@import "color.scss";
+@import "mixin.scss";
+@import "reset.scss";
+
+$colors: $lin-color,
+$gh-color,
+$tw-color,
+$yt-color;
+
+@each $i in $colors {
+    .child-#{i} {
+        background: $i;
+    }
+}
+
+
+
+// $youtube;
+
+
+
+.contener {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    max-width: 1170px;
+    width: 90%;
+    margin: auto;
+}

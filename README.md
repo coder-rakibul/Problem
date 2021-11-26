@@ -4,12 +4,6 @@
 
 <br/>
 
-## Resorce [YouTube](https://youtube.com)
-## Techar Name: Sumit Saha
-## [Tutorial link](https://www.youtube.com/watch?v=N3vG6Yt-e6k&t=777s)
-
-<br/>
-
 # SCSS Fetcher
 * Variable
 * Nesting & Nastad
